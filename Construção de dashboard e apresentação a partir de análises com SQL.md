@@ -65,4 +65,14 @@ group by A.call_done_date, B.lead_gen_source
 
 ![Dashboard de Vendas](AnalisesSQL.JPG)
 
+### ✅ Conclusão
+
+Com base nas análises efetuadas, foi possível identificar:
+* Existe uma predominância feminina: O sexo feminino representa a maioria dos leads, com 55,3% do total, enquanto o sexo masculino corresponde a 44,7%. 
+* Nível de escolaridade: Os grupos mais significativos são os participantes com formação em B.Tech, seguido de aqueles que estão procurando emprego. Juntos eles representam cerca de dois terços da amostra. Isso sugere um público jovem em transição entre estudos técnicos e inserção profissional.
+* Interações por plataforma: As ligações atendidas ao longo do tempo indicam que canais como social media, user referrals e email marketing tiveram um papel expressivo na conversão dos leads, apesar das variações sazonais ocorridas.
+* A idade média dos participantes é de 22 anos, reforçando o perfil jovem da base.
+* O idioma com maior média de visualização das demonstrações é o inglês (0.82), seguido por Telugu (0.76) e Hindi (0.69). Isso aponta para uma audiência que consome conteúdo multilíngue, com ligeiro destaque para o inglês.
+
+
 [⬅️ Voltar para o início](index.md)
