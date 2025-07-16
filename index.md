@@ -1,5 +1,3 @@
-# 🚀 Portfólio de Projetos - mnd43
-
 Bem-vindo(a)! Aqui estão alguns dos projetos que desenvolvi e compartilhei no GitHub. Sinta-se à vontade para explorar!
 
 ---
