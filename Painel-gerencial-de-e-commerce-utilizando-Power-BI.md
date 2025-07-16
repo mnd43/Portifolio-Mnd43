@@ -47,3 +47,6 @@ As métricas utilizadas nesse e-commerce eram: as vendas por quantidade e valor 
 ![Dashboard de Vendas](1.%20Vendas.JPG)
 ![Dashboard de Vendas](2.%20Cliente.JPG)
 
+
+[⬅️ Voltar para o início](index.md)
+
