@@ -194,3 +194,4 @@ LIMIT 10;
 
 SELECT ID, Primeiro_nome FROM company.cadastro_mkt
 WHERE Idade = 0;
+```
