@@ -61,6 +61,8 @@ where A.call_status = "successful"
 group by A.call_done_date, B.lead_gen_source
 ```
 
+## 📸 Visualização do Dashboard
 
+![Dashboard de Vendas](AnalisesSQL.JPG)
 
 [⬅️ Voltar para o início](index.md)
