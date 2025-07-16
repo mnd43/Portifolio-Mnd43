@@ -27,7 +27,7 @@ O fato de haver fornecedores externos com transações em moeda estrangeira indi
 Neste gráfico, é possível observar que, de maneira geral, a conta não variou significativamente ao longo do ano, com exceção do mês de fevereiro. Isso não indica erro ou inconsistência, mas levanta um questionamento de negócio para entender se essa variação é sazonal ou resultado de algum evento pontual ocorrido no mês.  
 
 ## 📸 Visualização do Dashboard
-
+![Dashboard Analise](Dashboard_Analise_F.png)
 
 
 [⬅️ Voltar para o início](index.md)
