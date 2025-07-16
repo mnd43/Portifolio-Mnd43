@@ -3,7 +3,7 @@ Bem-vindo(a)! Aqui estão alguns dos projetos que desenvolvi e compartilhei no G
 
 ---
 
-## 📊 [Listas de Exercícios SQL](https://github.com/mnd43/Listas_exerc-cios_SQL)
+## 📊 [Listas de Exercícios SQL](Lista_Exercicios_sql.md)
 *Exercícios práticos com SQL, cobrindo SELECT, JOIN, GROUP BY e mais.*  
 *Criado em 11 de junho*
 
