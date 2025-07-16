@@ -1,4 +1,4 @@
-# Painel-gerencial-de-e-commerce-utilizando-Power-BI
+# Painel gerencial de e-commerce utilizando Power BI
 
 ### Introdução
 Esse projeto tem como objetivo a construção de um painel gerencial para um e-commerce que almeja estudar as suas vendas e assim, traçar estratégias para alavancar seus resultados. 
