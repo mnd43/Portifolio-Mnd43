@@ -9,7 +9,7 @@ Bem-vindo(a)! Aqui estão alguns dos projetos que desenvolvi e compartilhei no G
 
 ---
 
-## 🔍 [Análise de Fornecedores](https://github.com/mnd43/Analise-de-Fornecedores)
+## 🔍 [Análise de Fornecedores](Analise de Fornecedores.md)
 *Projeto de análise de dados com foco em fornecedores e performance.*  
 *Criado em 26 de maio*
 
