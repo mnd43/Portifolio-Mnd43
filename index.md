@@ -5,27 +5,27 @@ Bem-vindo(a)! Aqui estão alguns dos projetos que desenvolvi e compartilhei no G
 
 ## 📊 [Listas de Exercícios SQL](https://github.com/mnd43/Listas_exerc-cios_SQL)
 *Exercícios práticos com SQL, cobrindo SELECT, JOIN, GROUP BY e mais.*  
-*Atualizado em 11 de junho*
+*Criado em 11 de junho*
 
 ---
 
 ## 🔍 [Análise de Fornecedores](https://github.com/mnd43/Analise-de-Fornecedores)
 *Projeto de análise de dados com foco em fornecedores e performance.*  
-*Atualizado em 26 de maio*
+*Criado em 26 de maio*
 
 ---
 
 ## 📈 [Dashboard com SQL + Metabase](Construção de dashboard e apresentação a partir de análises com SQL.md)
 **Tags:** SQL, Metabase  
 *Dashboard interativo criado com base em análises SQL.*  
-*Atualizado em 29 de setembro de 2024*
+*Criado em 29 de setembro de 2024*
 
 ---
 
 ## 🛒 [Painel Gerencial com Power BI](Painel-gerencial-de-e-commerce-utilizando-Power-BI.md)
 **Tags:** Dashboard, Power BI  
 *Painel para gestão e visualização de dados de e-commerce.*  
-*Atualizado em 29 de setembro de 2024*
+*Criado em 29 de setembro de 2024*
 
 ---
 
