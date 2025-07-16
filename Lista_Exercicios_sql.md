@@ -1,6 +1,6 @@
 # 📌 Estudos em SQL  
  
-Essta página contém exercícios práticos de SQL e vou usar para documentar minha jornada de aprendizado em SQL e mostrar minha evolução ao longo do tempo. Os desafios abordaram desde conceitos fundamentais até consultas avançadas, incluindo agregações, joins, manipulação de dados e análise de padrões.  
+Esta página contém exercícios práticos de SQL e vou usar para documentar minha jornada de aprendizado em SQL e mostrar minha evolução ao longo do tempo. Os desafios abordaram desde conceitos fundamentais até consultas avançadas, incluindo agregações, joins, manipulação de dados e análise de padrões.  
 
 ## 📂 Estrutura dos arquivos  
 Os exercícios estão organizados em dois arquivos principais:  
