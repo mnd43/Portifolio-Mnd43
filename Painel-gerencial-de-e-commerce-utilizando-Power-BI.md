@@ -40,3 +40,10 @@ Adicionei alguns filtros para melhores análises:
 ### Métricas
 
 As métricas utilizadas nesse e-commerce eram: as vendas por quantidade e valor total, a quantidade e valor total de vendas por data/período, e quantidade e valor total por categoria.
+
+
+## 📸 Visualização do Dashboard
+
+![Dashboard de Vendas](1.%20Vendas.JPG)
+![Dashboard de Vendas](2.%20Cliente.JPG)
+
