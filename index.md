@@ -22,7 +22,7 @@ Bem-vindo(a)! Aqui estão alguns dos projetos que desenvolvi e compartilhei no G
 
 ---
 
-## 🛒 [Painel Gerencial com Power BI](https://github.com/mnd43/Painel-gerencial-de-e-commerce-utilizando-Power-BI)
+## 🛒 [Painel Gerencial com Power BI](Painel-gerencial-de-e-commerce-utilizando-Power-BI.md)
 **Tags:** Dashboard, Power BI  
 *Painel para gestão e visualização de dados de e-commerce.*  
 *Atualizado em 29 de setembro de 2024*
