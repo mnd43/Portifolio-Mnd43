@@ -15,7 +15,7 @@ Bem-vindo(a)! Aqui estão alguns dos projetos que desenvolvi e compartilhei no G
 
 ---
 
-## 📈 [Dashboard com SQL + Metabase](https://github.com/mnd43/Construcao-de-dashboard-e-apresentacao-a-partir-de-analises-com-SQL)
+## 📈 [Dashboard com SQL + Metabase](Construção de dashboard e apresentação a partir de análises com SQL.md)
 **Tags:** SQL, Metabase  
 *Dashboard interativo criado com base em análises SQL.*  
 *Atualizado em 29 de setembro de 2024*
