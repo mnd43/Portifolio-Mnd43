@@ -166,16 +166,16 @@ Como o ambiente SQL Server estava localizado em uma máquina diferente de onde e
 ### Visualização das Páginas do Power BI
 
 #### 1️⃣ Visão Geral  
-![Visão Geral](mcmv/1. Visão Geral.png)
+![Visão Geral](mcmv/1_Visao_Geral.png)
 
-#### 2️⃣ Perfil dos Beneficiários  
-![Perfil dos Beneficiários](mcmv/2. Perfil dos Beneficiários.png)
+#### 2️⃣ Perfil dos Beneficiarios  
+![Perfil dos Beneficiarios](mcmv/2_Perfil_dos_Beneficiarios.png)
 
-#### 3️⃣ Análises Financeiras  
-![Análises Financeiras](mcmv/3. Análises Financeiras.png)
+#### 3️⃣ Analises Financeiras  
+![Analises Financeiras](mcmv/3_Analises_Financeiras.png)
 
 #### 4️⃣ Qualidade dos Dados  
-![Qualidade dos Dados](mcmv/4. Qualidade dos Dados.png)
+![Qualidade dos Dados](mcmv/4_Qualidade_dos_Dados.png)
 
 
 ## Página 1: Visão Geral – Panorama macro sobre volume, tempo e território dos financiamentos
@@ -286,4 +286,7 @@ Tipo de visual: Card – 3 milhões de registros (45,27%) estão sem data de nas
 Essas ausências podem indicar deficiência no processo de coleta e manutenção dos dados ou no preenchimento dos contratos.  
 Ainda, inviabiliza ou pelo menos dificulta estudos por faixa etária ou geração.
 
+
 #### Veja o código SQL aqui: [Cod_proj_mcmv.sql](Cod_proj_mcmv.sql)
+
+[⬅️ Voltar para o início](index.md)
