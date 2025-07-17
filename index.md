@@ -3,6 +3,13 @@ Bem-vindo(a)! Aqui estão alguns dos projetos que desenvolvi e compartilhei no G
 
 ---
 
+## 🏠 [Projeto MCMV (Minha Casa Minha Vida) – SQL + Power BI](Projeto_mcmv.md)
+**Tags:** SQL, Power BI, Programa Habitacional  
+*Análise completa do Programa Minha Casa Minha Vida com base em dados públicos via SQL Server e visualizações no Power BI.*  
+*Criado em 16 de julho de 2025*
+
+---
+
 ## 📊 [Listas de Exercícios SQL](Lista_Exercicios_sql.md)
 *Exercícios práticos com SQL, cobrindo SELECT, JOIN, GROUP BY e mais.*  
 *Criado em 11 de junho*
