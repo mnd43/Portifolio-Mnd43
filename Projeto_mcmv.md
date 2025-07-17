@@ -9,6 +9,9 @@ Analisar as informações sobre Minha Casa, Minha Vida - Linha Financiada, que s
 ## Ferramentas Utilizadas  
 Utilizei o VS Code e o Notepad++ para tratamento inicial de caracteres da base; em seguida, utilizei o SQL Server para importação da base, tratamento de dados e para as consultas SQL da análise; posteriormente, utilizei o Power BI para visualização gráfica de algumas consultas.
 
+#### 🔄 Fluxo Geral do Projeto  
+![Fluxo de Processamento](mcmv/Fluxo.png)
+
 ### Dicionário de Dados:
 1.	data_referencia: Data de referência dos dados - TEXTO
 2.	cod_IBGE: Código IBGE do município - TEXTO
@@ -160,6 +163,20 @@ Ele tenta equilibrar os benefícios de ambos: prestações mais leves no início
 Como o ambiente SQL Server estava localizado em uma máquina diferente de onde estava o PBI, optei por realizar todo o tratamento e modelagem diretamente nele e, em seguida, exportar a base final limpa como CSV. Essa abordagem permitiu preservar todas as regras de limpeza e tipagem, mantendo a análise no Power BI fiel à versão original.
 
 ---
+### Visualização das Páginas do Power BI
+
+#### 1️⃣ Visão Geral  
+![Visão Geral](mcmv/1. Visão Geral.png)
+
+#### 2️⃣ Perfil dos Beneficiários  
+![Perfil dos Beneficiários](mcmv/2. Perfil dos Beneficiários.png)
+
+#### 3️⃣ Análises Financeiras  
+![Análises Financeiras](mcmv/3. Análises Financeiras.png)
+
+#### 4️⃣ Qualidade dos Dados  
+![Qualidade dos Dados](mcmv/4. Qualidade dos Dados.png)
+
 
 ## Página 1: Visão Geral – Panorama macro sobre volume, tempo e território dos financiamentos
 
