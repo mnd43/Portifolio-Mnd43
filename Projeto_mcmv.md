@@ -40,6 +40,7 @@ Utilizei o VS Code e o Notepad++ para tratamento inicial de caracteres da base; 
  Abri o arquivo no Notepad++ e com o “localizar e substituir” inseri os caracteres a seguir, manualmente: 
 á|à|â|ã|ä|é|è|ê|ë|í|ì|î|ï|ó|ò|ô|õ|ö|ú|ù|û|ü|ç
 a|a|a|a|a|e|e|e|e|i|i|i|i|o|o|o|o|o|u|u|u|u|c
+
 Sei que a ideia é evitar fazer muitos tratamentos manuais, mas a base tinha mais de 6 milhões de linhas e consegui arrumar em menos de 15 minutos, então acredito que tenha sido válido. Já havia tentado selecionar apenas o Encoding correto na importação para o SQLServer, mas mesmo assim ainda não estava funcionando corretamente. Tentei substituir tudo de uma vez no VS Code também, mas pelo tamanho do arquivo começou a dar erro. Por isso preferi seguir do jeito que fiz e remover todos os acentos da base.
 Assim que importei a base de dados no SQLServer, iniciei o processo de higienização da tabela fato, que renomeei para t_mcmv com o comando sp_rename.
 Em seguida, inspecionei os dados e os tipos de cada coluna com consultas exploratórias, e identifiquei que todas as colunas estavam como VARCHAR, algumas ainda tinham campos em branco e registros com falha de conversão.
