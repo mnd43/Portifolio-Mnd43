@@ -19,16 +19,16 @@ Utilizei o VS Code e o Notepad++ para o tratamento inicial de caracteres da base
 4.	mcmv_fgts_txt_uf: UF em que o município se localiza - TEXTO 
 5.	txt_regiao: Região em que a UF se localiza. - TEXTO
 6.	data_assinatura_financiamento: Data da contratação do financiamento - DATA
-7.	qtd_uh_financiadas: Quantidade de unidades habitacionais contratadas no município – NUMERO
-8.	vlr_financiamento: Valor total das operações de crédito realizadas entre o agente financeiro e os mutuários - NUMERO
-9.	vlr_subsidio_desconto_fgts: Valor total do desconto concedido pelo FGTS (Fundo de Garantia do Tempo de Serviço) na operação de crédito para abatimento do valor a ser financiado pelo mutuário – NUMERO - 
-10.	vlr_subsidio_desconto_ogu: Valor total do desconto concedido pelo OGU (Orçamento Geral da União) na operação de crédito para abatimento do valor a ser financiado pelo mutuário. - NUMERO
-11.	vlr_subsidio_equilíbrio_fgts: Valor total do desconto concedido pelo FGTS(Fundo de Garantia do Tempo de Serviço) na operação de crédito para diminuição da taxa de juros a ser aplicada ao financiamento. - NUMERO
-12.	vlr_subsidio_equilíbrio_ogu: Valor total do desconto concedido pelo OGU (Orçamento Geral da União) na operação de crédito para diminuição da taxa de juros a ser aplicada ao financiamento. - NUMERO
-13.	vlr_compra: Descreve o valor pedido pelo vendedor, normalmente o mesmo que o valor de garantia. - NUMERO
-14.	vlr_renda_familiar: Representa o valor de renda familiar do mutuário/contratante, utilizada para a contratação do financiamento. - NUMERO
+7.	qtd_uh_financiadas: Quantidade de unidades habitacionais contratadas no município – NÚMERO
+8.	vlr_financiamento: Valor total das operações de crédito realizadas entre o agente financeiro e os mutuários - NÚMERO
+9.	vlr_subsidio_desconto_fgts: Valor total do desconto concedido pelo FGTS (Fundo de Garantia do Tempo de Serviço) na operação de crédito para abatimento do valor a ser financiado pelo mutuário – NÚMERO
+10.	vlr_subsidio_desconto_ogu: Valor total do desconto concedido pelo OGU (Orçamento Geral da União) na operação de crédito para abatimento do valor a ser financiado pelo mutuário. - NÚMERO
+11.	vlr_subsidio_equilíbrio_fgts: Valor total do desconto concedido pelo FGTS(Fundo de Garantia do Tempo de Serviço) na operação de crédito para diminuição da taxa de juros a ser aplicada ao financiamento. - NÚMERO
+12.	vlr_subsidio_equilíbrio_ogu: Valor total do desconto concedido pelo OGU (Orçamento Geral da União) na operação de crédito para diminuição da taxa de juros a ser aplicada ao financiamento. - NÚMERO
+13.	vlr_compra: Descreve o valor pedido pelo vendedor, normalmente o mesmo que o valor de garantia. - NÚMERO
+14.	vlr_renda_familiar: Representa o valor de renda familiar do mutuário/contratante, utilizada para a contratação do financiamento. - NÚMERO
 15.	txt_programa_fgts: Descreve o programa vinculado à área responsável pela aplicação dos recursos contratados. - TEXTO
-16.	num_taxa_juros: Representa o índice da taxa de juros inicial vinculada ao empréstimo contratado, em forma percentual. - NUMERO
+16.	num_taxa_juros: Representa o índice da taxa de juros inicial vinculada ao empréstimo contratado, em forma percentual. - NÚMERO
 17.	txt_tipo_imovel: Descreve se o imóvel é Novo ou Usado. - TEXTO
 18.	bln_cotista: Descreve se o mutuário/contratante é titular de conta vinculada do FGTS ou não, no formato (S ou N). - TEXTO
 19.	txt_sistema_amortizacao: Descreve o sistema de amortização do contrato de financiamento. - TEXTO
@@ -93,7 +93,7 @@ a faixa 3, com 1.185.785 unidades habitacionais e a categoria Fora MCMV/CVA com 
 com exceção de AL e PI onde a maioria é da faixa 1,  
 e AP que tem a faixa 3 como a mais populosa.
 
-• De maneira geral, a renda familiar média dos beneficiários dessa linha com utilização do FGTS do **MCV**, é de 3046.36 reais.  
+• De maneira geral, a renda familiar média dos beneficiários dessa linha com utilização do FGTS do MCMV, é de 3046.36 reais.  
 
 • Foi possível identificar que 11 estados (AP, DF, AM, AC, SP, RJ, RR, SC, ES, RO e TO) possuem renda familiar média superior em relação à renda familiar média nacional calculada a partir dessa base,  
 com valores que vão de 3.072,02 (TO) a 4.762,93 (em AP).  
