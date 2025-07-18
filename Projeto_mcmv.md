@@ -108,7 +108,7 @@ Quando analisamos por unidade federativa, temos SP com o maior valor médio em 1
 99.213.543.406,54 (noventa e nove bilhões, duzentos e treze milhões, quinhentos e quarenta e três mil, quatrocentos e seis reais e cinquenta e quatro centavos).  
 Já o ano com menor valor total foi 2007 com apenas 5.669,73.
 
-• Quando consideramos os registros com ausência de ano de financiamento, temos um total de  
+• Quando consideramos os registros com ausência de ano de financiamento, temos um valor de financiamento total de  
 111.559.637,14 (Cento e onze milhões, quinhentos e cinquenta e nove mil, seiscentos e trinta e sete reais e quatorze centavos) sem essa informação.
 
 • Quando analisamos a idade que o beneficiário tinha quando assinou o contrato, temos uma idade média nacional de 32 anos.  
