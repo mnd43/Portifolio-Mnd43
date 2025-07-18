@@ -59,7 +59,7 @@ Utilizei a função TRY_CONVERT como uma boa prática para garantir qualidade e 
 • Transformação de espaços vazios (' ') para NULL, usando LTRIM(RTRIM(...)) = '', garantindo que esses registros fossem corretamente tratados nas conversões.  
 Uma vez que a ideia não era fazer nenhuma análise preditiva, nem imputar os dados para algum modelo de machine learning, e os nulos nesse caso também contam história, resolvi mantê-los.
 
-• Substituição das datas padrão: atualizei todos os valores 1900-01-01 para NULL nas colunas de data — evitando distorções em análises temporais.
+• Substituição das datas padrão: atualizei todos os valores 1900-01-01 para NULL nas colunas de data - evitando distorções em análises temporais.
 
 • Conversão definitiva de tipos: alterei os tipos de coluna para:  
 INT: qtd_uh_financiadas  
