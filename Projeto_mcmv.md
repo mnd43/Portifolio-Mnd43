@@ -7,7 +7,7 @@ O Programa Minha Casa, Minha Vida (MCMV) é uma iniciativa habitacional do gover
 Analisar as informações sobre Minha Casa, Minha Vida - Linha Financiada, que são unidades habitacionais contratadas via financiamento a pessoas físicas, com recursos do Fundo de Garantia do Tempo de Serviço (FGTS), de maneira analítica, ou seja, apresentando os dados sobre os contratos de financiamento do FGTS, nas faixas de renda do MCMV, ao nível de pessoa física.
 
 ## Ferramentas Utilizadas  
-Utilizei o VS Code e o Notepad++ para tratamento inicial de caracteres da base; em seguida, utilizei o SQL Server para importação da base, tratamento de dados e para as consultas SQL da análise; posteriormente, utilizei o Power BI para visualização gráfica de algumas consultas.
+Utilizei o VS Code e o Notepad++ para o tratamento inicial de caracteres da base. Em seguida, utilizei o SQL Server para a importação da base, o tratamento de dados e para as consultas SQL da análise. Posteriormente, utilizei o Power BI para a visualização gráfica de algumas consultas.
 
 #### 🔄 Fluxo Geral do Projeto  
 ![Fluxo de Processamento](mcmv/Fluxo.png)
