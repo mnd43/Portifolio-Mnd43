@@ -295,7 +295,7 @@ Ainda, inviabiliza ou pelo menos dificulta estudos por faixa etária ou geraçã
 <div style="margin: 0; padding: 0; display: flex; justify-content: center;">
   <iframe title="Projeto_MCMV"
     src="https://app.powerbi.com/view?r=eyJrIjoiZDE3MWM2NWItODQ1MC00YWI1LTg5NWEtYTRjYjAzOWVmMWUyIiwidCI6IjY0ZWM4NmIyLTdkM2YtNDdiMS05MjZkLWFhZTc2NGZkYWUwMSJ9"
-    width="100%" height="500"
+    width="100%" height="480"
     frameborder="0" allowfullscreen="true"
     style="max-width: 1280px; border: none;">
   </iframe>
