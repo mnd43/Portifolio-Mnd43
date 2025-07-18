@@ -93,7 +93,7 @@ a faixa 3, com 1.185.785 unidades habitacionais e a categoria Fora MCMV/CVA com 
 com exceção de AL e PI onde a maioria é da faixa 1,  
 e AP que tem a faixa 3 como a mais populosa.
 
-• De maneira geral, a renda familiar média dos beneficiários dessa linha com utilização do FGTS do MCMV, é de 3046.36 reais.  
+• De maneira geral, a renda familiar média dos beneficiários dessa linha com utilização do FGTS do MCMV, é de 3046,36 reais.  
 
 • Foi possível identificar que 11 estados (AP, DF, AM, AC, SP, RJ, RR, SC, ES, RO e TO) possuem renda familiar média superior em relação à renda familiar média nacional calculada a partir dessa base,  
 com valores que vão de 3.072,02 (TO) a 4.762,93 (em AP).  
