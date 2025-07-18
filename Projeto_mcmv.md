@@ -291,11 +291,12 @@ Ainda, inviabiliza ou pelo menos dificulta estudos por faixa etária ou geraçã
 #### Veja o código SQL aqui: [Cod_proj_mcmv.sql](Cod_proj_mcmv.sql)
 
 <h2 style="text-align: center;">Interaja com o Dashboard <br><span style="font-size: 2rem;">👇</span></h2>
-<div style="display: flex; justify-content: center; padding: 20px;">
-  <iframe title="Projeto_MCMV" width="600" height="600"
+<div style="display: flex; justify-content: center; padding: 10px 0;">
+  <iframe title="Projeto_MCMV" width="960" height="680"
     src="https://app.powerbi.com/view?r=eyJrIjoiZDE3MWM2NWItODQ1MC00YWI1LTg5NWEtYTRjYjAzOWVmMWUyIiwidCI6IjY0ZWM4NmIyLTdkM2YtNDdiMS05MjZkLWFhZTc2NGZkYWUwMSJ9"
     frameborder="0" allowfullscreen="true"></iframe>
 </div>
+
 
 
 
