@@ -288,7 +288,8 @@ Essas ausências podem indicar deficiência no processo de coleta e manutenção
 Ainda, inviabiliza ou pelo menos dificulta estudos por faixa etária ou geração.
 
 
-#### Veja o código SQL aqui: [Código](https://github.com/mnd43/Projeto_mcmv)
+#### Veja o código do projeto no GitHub: [Clique aqui](https://github.com/mnd43/Projeto_mcmv)
+
 
 
 
