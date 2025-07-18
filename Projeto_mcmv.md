@@ -19,9 +19,9 @@ Utilizei o VS Code e o Notepad++ para o tratamento inicial de caracteres da base
 4.	mcmv_fgts_txt_uf: UF em que o município se localiza - TEXTO 
 5.	txt_regiao: Região em que a UF se localiza. - TEXTO
 6.	data_assinatura_financiamento: Data da contratação do financiamento - DATA
-7.	qtd_uh_financiadas: Quantidade de unidades habitacionais contratadas no município – NÚMERO
+7.	qtd_uh_financiadas: Quantidade de unidades habitacionais contratadas no município - NÚMERO
 8.	vlr_financiamento: Valor total das operações de crédito realizadas entre o agente financeiro e os mutuários - NÚMERO
-9.	vlr_subsidio_desconto_fgts: Valor total do desconto concedido pelo FGTS (Fundo de Garantia do Tempo de Serviço) na operação de crédito para abatimento do valor a ser financiado pelo mutuário – NÚMERO
+9.	vlr_subsidio_desconto_fgts: Valor total do desconto concedido pelo FGTS (Fundo de Garantia do Tempo de Serviço) na operação de crédito para abatimento do valor a ser financiado pelo mutuário - NÚMERO
 10.	vlr_subsidio_desconto_ogu: Valor total do desconto concedido pelo OGU (Orçamento Geral da União) na operação de crédito para abatimento do valor a ser financiado pelo mutuário. - NÚMERO
 11.	vlr_subsidio_equilíbrio_fgts: Valor total do desconto concedido pelo FGTS(Fundo de Garantia do Tempo de Serviço) na operação de crédito para diminuição da taxa de juros a ser aplicada ao financiamento. - NÚMERO
 12.	vlr_subsidio_equilíbrio_ogu: Valor total do desconto concedido pelo OGU (Orçamento Geral da União) na operação de crédito para diminuição da taxa de juros a ser aplicada ao financiamento. - NÚMERO
@@ -83,7 +83,7 @@ Depois de pesquisar, entendi que existiam outros programas antes do MCMV e que e
 Juntos, esses 5 estados somam 62,85% do total de quantidades financiadas.  
 Entre eles, SP lidera com 27,08% do total geral.
 
-• O município com maior quantidade de unidades financiadas é São Paulo – SP com 397.047, seguido do Rio de Janeiro – RJ, com 146.554 e João Pessoa – PB com 96.751.  
+• O município com maior quantidade de unidades financiadas é São Paulo-SP com 397.047, seguido do Rio de Janeiro-RJ, com 146.554 e João Pessoa-PB com 96.751.  
 
 • A faixa de renda 2 é a faixa da maioria dos beneficiários, com um total de 3.819.591 unidades financiadas nessa linha do MCMV.  
 Em seguida vemos a faixa 1, com 1.722.299 unidades financiadas;  
@@ -146,7 +146,7 @@ Existe uma chance de pelo menos uma parte desses registros sem taxa serem decorr
 • Do total de unidades financiadas, 5.671.321 foram de imóveis novos e 1.269.484 tinham como tipo de imóvel o usado.
 
 • Quanto ao sistema de amortização dos contratos, o mais utilizado é o método tabela PRICE, que compreende 81,90% do total,  
-ou 5.684.365 unidades habitacionais, nesse sistema, a prestação é fixa – valor total constante – com amortização crescente e juros decrescentes,  
+ou 5.684.365 unidades habitacionais, nesse sistema, a prestação é fixa - valor total constante - com amortização crescente e juros decrescentes,  
 ou seja, nos primeiros anos você paga mais juros do que amortização, e só depois inverte. No fim, o total pago é maior do que no SAC.  
 
 Do restante, 8,93%, ou 620.096 unidades, foram contratadas pelo sistema SAC  
@@ -179,22 +179,22 @@ Como o ambiente SQL Server estava localizado em uma máquina diferente de onde e
 ![Qualidade dos Dados](mcmv/4_Qualidade_dos_Dados.png)
 
 
-## Página 1: Visão Geral – Panorama macro sobre volume, tempo e território dos financiamentos
+## Página 1: Visão Geral - Panorama macro sobre volume, tempo e território dos financiamentos
 
 ### Quantidade Financiada por UF  
 Tipo de gráfico: Gráfico de barras verticais – Mostra a distribuição geográfica dos financiamentos no Brasil.
 
 ### Quantidade Financiada por Ano  
-Tipo de gráfico: Gráfico de linha – Evolução temporal do volume de financiamentos entre 2005 e 2025.  
+Tipo de gráfico: Gráfico de linha - Evolução temporal do volume de financiamentos entre 2005 e 2025.  
 Revela picos e quedas ao longo dos anos, como o crescimento entre 2010 e 2015, queda em 2018 e um pico em 2020.  
 Pode refletir políticas públicas, crises econômicas ou mudanças nos critérios de financiamento.
 
 ### Valor Total de Financiamentos  
-Tipo de visual: Card – Mostra o valor total financiado: R$ 734,56 bilhões.  
+Tipo de visual: Card - Mostra o valor total financiado: R$ 734,56 bilhões.  
 Revela a magnitude financeira do programa e o impacto econômico geral.
 
 ### Total de Unidades Financiadas  
-Tipo de visual: Card – Mostra o total de unidades habitacionais financiadas: 6,94 milhões.  
+Tipo de visual: Card - Mostra o total de unidades habitacionais financiadas: 6,94 milhões.  
 Revela a escala social do programa com quantas famílias foram beneficiadas.
 
 ### TOP 10 Municípios em Quantidade de Financiamento  
@@ -205,7 +205,7 @@ Indica onde há maior pressão habitacional ou maior adesão ao programa.
 
 ---
 
-## Página 2: Perfil dos Beneficiários – Quem são, onde moram, qual a idade e a renda
+## Página 2: Perfil dos Beneficiários - Quem são, onde moram, qual a idade e a renda
 
 ### Distribuição de Idade dos Beneficiários  
 Tipo de gráfico: Gráfico de barras verticais.  
@@ -223,16 +223,16 @@ A idade média dos beneficiários é bastante uniforme entre as regiões, em tor
 A menor idade registrada é 16 anos e a maior é 78 anos.
 
 ### Quantidade Financiada por Faixa de Renda  
-Tipo de gráfico: Gráfico de barras verticais – A Faixa 2 lidera com folga (3,8 milhões de unidades), seguida pela Faixa 1.  
+Tipo de gráfico: Gráfico de barras verticais - A Faixa 2 lidera com folga (3,8 milhões de unidades), seguida pela Faixa 1.  
 É possível entender que o programa tem maior penetração entre famílias com renda intermediária dentro dos critérios do MCMV.
 
 ### Quantidade por Tipo de Imóvel  
-Tipo de gráfico: Gráfico de donut – A maioria dos imóveis financiados é novo (81,71%).  
+Tipo de gráfico: Gráfico de donut - A maioria dos imóveis financiados é novo (81,71%).  
 Esse predomínio pode estar relacionado às facilidades oferecidas para aquisição de imóveis na planta, como subsídios mais acessíveis, maior oferta por parte das construtoras e por condições de parcelamento mais flexíveis.
 
 ---
 
-## Página 3: Análises Financeiras – Como o dinheiro circula: valores, descontos e sistemas de amortização
+## Página 3: Análises Financeiras - Como o dinheiro circula: valores, descontos e sistemas de amortização
 
 ### Financiamento Médio por UF  
 Tipo de gráfico: Gráfico de barras horizontais – Os estados com maior valor médio de financiamento são SP (R$ 124K), DF (R$ 120K) e AM (R$ 117K).  
@@ -243,47 +243,47 @@ Tipo de visual: Cards – A taxa média é 7,14%, com a maior em 9,16% e a menor
 A variação nas taxas praticadas, em geral, pode estar ligada ao tipo de contrato, faixa de renda ou agente financeiro.
 
 ### Sistema de Amortização  
-Tipo de gráfico: Gráfico de barras verticais – O sistema PRICE domina com 82%, enquanto SAC e outros têm participação mínima.
+Tipo de gráfico: Gráfico de barras verticais - O sistema PRICE domina com 82%, enquanto SAC e outros têm participação mínima.
 
 ### Subsídio FGTS e OGU por UF  
-Tipo de gráfico: Gráfico de barras verticais agrupadas – SP lidera com folga (R$ 10,3 bilhões), seguido por MG, GO e PR.  
+Tipo de gráfico: Gráfico de barras verticais agrupadas - SP lidera com folga (R$ 10,3 bilhões), seguido por MG, GO e PR.  
 Revela alta concentração de subsídios em estados populosos e com maior volume de contratos.  
 Ainda, o FGTS tem maior participação do que o subsídio OGU.
 
 ### Financiamento Médio por Faixa de Renda  
-Tipo de visual: Tabela – É possível observar que fora do MCMV/CVA, o valor médio é altíssimo (R$ 11.573,36),  
+Tipo de visual: Tabela - É possível observar que fora do MCMV/CVA, o valor médio é altíssimo (R$ 11.573,36),  
 enquanto Faixa 1 tem o menor (R$ 1.669,27).  
 Isso demonstra que quanto maior a renda, em geral, maior é o valor financiado.
 
 ### Valor Médio por Faixa de Renda e Região  
-Tipo de gráfico: Gráfico de dispersão (scatter plot) – O Sudeste lidera em valor médio de financiamento (até R$ 250K),  
+Tipo de gráfico: Gráfico de dispersão (scatter plot) - O Sudeste lidera em valor médio de financiamento (até R$ 250K),  
 enquanto Norte e Nordeste têm valores mais baixos.
 
 ---
 
-## Página 4: Qualidade dos Dados – Campos com valores nulos ou ausentes
+## Página 4: Qualidade dos Dados - Campos com valores nulos ou ausentes
 
 ### Contratos Sem o Valor de Compra  
-Tipo de visual: Card – Apenas 323 contratos (0,00465%) não possuem valor de compra informado.
+Tipo de visual: Card - Apenas 323 contratos (0,00465%) não possuem valor de compra informado.
 
 ### Contratos Sem Taxa de Juros  
-Tipo de visual: Card – 295 mil contratos (4,25%) estão sem taxa de juros registrada.
+Tipo de visual: Card - 295 mil contratos (4,25%) estão sem taxa de juros registrada.
 
 ### Contratos Sem Data de Assinatura  
-Tipo de visual: Card – 1.275 contratos (0,02%) não têm data de assinatura.  
+Tipo de visual: Card - 1.275 contratos (0,02%) não têm data de assinatura.  
 O impacto nas análises é pequeno, dado o tamanho total da base,  
 mas pode indicar deficiência no processo de coleta e manutenção dos dados,  
 uma vez que todo contrato teve que ser assinado em algum momento.
 
 ### Contratos Sem Cotista (Titular da Conta)  
-Tipo de visual: Card – 643 mil contratos (9,27%) não têm cotista (se o beneficiário é o titular da conta) identificado.  
+Tipo de visual: Card - 643 mil contratos (9,27%) não têm cotista (se o beneficiário é o titular da conta) identificado.  
 A ausência desses dados pode indicar falhas de cadastro ou contratos incompletos.
 
 ### Contratos Sem Sistema de Amortização  
-Tipo de visual: Card – 636 mil contratos (9,16%) não informam o sistema de amortização.
+Tipo de visual: Card - 636 mil contratos (9,16%) não informam o sistema de amortização.
 
 ### Beneficiários Sem Data de Nascimento  
-Tipo de visual: Card – 3 milhões de registros (45,27%) estão sem data de nascimento.  
+Tipo de visual: Card - 3 milhões de registros (45,27%) estão sem data de nascimento.  
 Essas ausências podem indicar deficiência no processo de coleta e manutenção dos dados ou no preenchimento dos contratos.  
 Ainda, inviabiliza ou pelo menos dificulta estudos por faixa etária ou geração.
 
