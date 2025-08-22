@@ -20,13 +20,13 @@ Bem-vindo(a)! Aqui estão alguns dos projetos que desenvolvi e compartilhei no G
 
 ## 📊 [Listas de Exercícios SQL](Lista_Exercicios_sql.md)
 *Exercícios práticos com SQL, cobrindo SELECT, JOIN, GROUP BY e mais.*  
-*Criado em 11 de junho*
+*Criado em 11 de junho de 2025*
 
 ---
 
 ## 🔍 [Análise de Fornecedores](Analise_de_Fornecedores.md)
 *Projeto de análise de dados com foco em fornecedores e performance.*  
-*Criado em 26 de maio*
+*Criado em 26 de maio de 2025*
 
 ---
 
