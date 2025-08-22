@@ -3,6 +3,14 @@ Bem-vindo(a)! Aqui estão alguns dos projetos que desenvolvi e compartilhei no G
 
 ---
 
+## 📈 [Projeto Arrecadação Pública – Jupyter Notebook](Proj_arrec/Projeto_arrecadacao.html)
+**Tags:** Jupyter, HTML, Finanças Públicas  
+*Exploração de dados sobre arrecadação pública com visualizações interativas em notebook Jupyter, convertido para HTML.*  
+*Criado em 22 de agosto de 2025*
+
+
+---
+
 ## 🏠 [Projeto MCMV (Minha Casa Minha Vida) – SQL + Power BI](Projeto_mcmv.md)
 **Tags:** SQL, Power BI, Programa Habitacional  
 *Análise completa do Programa Minha Casa Minha Vida com base em dados públicos via SQL Server e visualizações no Power BI.*  
