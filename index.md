@@ -5,7 +5,6 @@ Bem-vindo(a)! Aqui estão alguns dos projetos que desenvolvi e compartilhei no G
 ## 🧠 Projeto Alteryx
 
 **Tags:** Alteryx, ETL, Automação  
-
 *Fluxo de trabalho criado no Alteryx para treinamento na ferramenta Alteryx.*  
 *Criado em 31 de agosto de 2025*
 
