@@ -2,37 +2,24 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Projeto Alteryx</title>
+  <title>Projeto_Alteryx</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 40px;
-      background-color: #f9f9f9;
+      background-color: #fdfdfd;
       color: #333;
       line-height: 1.6;
     }
     h1, h2, h3 {
-      color: #005a9c;
-    }
-    img {
-      max-width: 100%;
-      margin: 20px 0;
-      border: 1px solid #ccc;
-      box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
-    }
-    .section {
-      margin-bottom: 40px;
+      color: #2c3e50;
     }
     ul {
-      padding-left: 20px;
+      list-style-type: disc;
+      margin-left: 20px;
     }
     hr {
-      border: none;
-      border-top: 1px solid #ccc;
       margin: 30px 0;
-    }
-    strong {
-      color: #0078d4;
     }
   </style>
 </head>
@@ -48,6 +35,7 @@
   <h2>🗂️ Bases de Dados Utilizadas</h2>
 
   <h3>1. Cadastro</h3>
+  <p>Contém informações básicas sobre os produtos:</p>
   <ul>
     <li>SKU: Identificador único do produto</li>
     <li>Nome do Produto</li>
@@ -56,6 +44,7 @@
   </ul>
 
   <h3>2. Movimentações</h3>
+  <p>Registra eventos de entrada e saída de produtos:</p>
   <ul>
     <li>SKU</li>
     <li>Data</li>
@@ -70,36 +59,37 @@
   <p>O fluxo foi construído em duas subdivisões a partir da entrada de dados:</p>
 
   <ul>
-    <li>📥 Input Data – Importação das duas bases: cadastro de produtos e movimentações.</li>
+    <li>📥 <strong>Input Data</strong><br>Importação das duas bases: cadastro de produtos e movimentações.</li>
   </ul>
 
-  <p><strong>PARTE 1:</strong> A partir da base Movimentação:</p>
+  <p><strong>PARTE 1:</strong><br>A partir da base Movimentação:</p>
   <ul>
-    <li>🔃 Sort Tool – Ordenação dos dados por SKU de maneira crescente.</li>
-    <li>🧮 Formula Tool – Criação de coluna "Mov_Ajustada" com valores positivos para entradas e negativos para saídas.</li>
-    <li>🧮 Formula Tool – Criação de coluna "Mov_Ajustada_Num" convertendo os valores para números.</li>
-    <li>📊 Summarize Tool – Agrupamento por produto somando "Mov_Ajustada_Num" para consolidar o saldo final de estoque.</li>
+    <li>🔃 Sort Tool - Ordenação dos dados por SKU de maneira crescente.</li>
+    <li>🧮 Formula Tool - Criação de coluna calculada "Mov_Ajustada" com condição para entradas positivas e saídas negativas.</li>
+    <li>🧮 Formula Tool - Criação da coluna "Mov_Ajustada_Num", convertendo valores para números.</li>
+    <li>📊 Summarize Tool - Agrupamento por produto somando "Mov_Ajustada_Num" para saldo final de estoque.</li>
   </ul>
 
-  <p><strong>PARTE 2:</strong> A partir da base Cadastro:</p>
+  <p><strong>PARTE 2:</strong><br>A partir da base Cadastro:</p>
   <ul>
-    <li>🔗 Join Tool – Combinação com os dados de movimentações via campo SKU.</li>
-    <li>🔃 Sort Tool – Ordenação por SKU.</li>
-    <li>🧹 Unique Tool – Filtragem de registros duplicados.</li>
-    <li>🔗 Join Tool – Junção com os dados do Summarize.</li>
-    <li>🧮 Formula Tool – Criação da coluna "Valor_Estoque".</li>
-    <li>📤 Output Data – Exportação para Excel.</li>
+    <li>🔗 Join Tool - Combinação via campo SKU.</li>
+    <li>🔃 Sort Tool - Ordenação por SKU.</li>
+    <li>🧹 Unique Tool - Filtragem de duplicados.</li>
+    <li>🔗 Join Tool - Junção com os dados do Summarize.</li>
+    <li>🧮 Formula Tool - Criação da coluna "Valor_Estoque" (quantidade × preço unitário).</li>
+    <li>📤 Output Data - Exportação para Excel.</li>
   </ul>
 
-  <p>Adicionalmente, foram criadas visualizações:</p>
+  <p>Visualizações adicionais:</p>
   <ul>
-    <li>📈 Charting Tool – Valor do estoque por armazém</li>
-    <li>📈 Charting Tool – Valor do estoque por SKU</li>
+    <li>📈 Charting Tool - Valor do estoque por armazém</li>
+    <li>📈 Charting Tool - Valor do estoque por SKU</li>
   </ul>
 
   <hr>
 
   <h2>🧠 Aprendizados</h2>
+  <p>Como utilizei bases fictícias para praticar o uso do Alteryx, foquei nas etapas técnicas:</p>
   <ul>
     <li>Integração de múltiplas fontes de dados</li>
     <li>Aplicação de lógica condicional e cálculos personalizados</li>
@@ -111,7 +101,7 @@
 
   <h2>🖼️ Imagem do Fluxo</h2>
   <p>Abaixo está o fluxo criado no Alteryx Designer:</p>
-  <img src="Fluxo_Alteryx.png" alt="Fluxo do projeto Alteryx">
+  <img src="Fluxo_Alteryx.png" alt="Fluxo do projeto Alteryx" style="max-width: 100%; height: auto;">
 
 </body>
 </html>
