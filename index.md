@@ -2,7 +2,7 @@
 Bem-vindo(a)! Aqui estão alguns dos projetos que desenvolvi e compartilhei no GitHub. Sinta-se à vontade para explorar!
 
 ---
-## 🧠 Projeto Alteryx
+## 🧠 [Projeto Alteryx](Alteryx/index.html).
 
 **Tags:** Alteryx, ETL, Automação  
 *Fluxo de trabalho criado no Alteryx para treinamento na ferramenta Alteryx.*  
